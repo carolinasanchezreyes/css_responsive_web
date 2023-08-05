@@ -21,9 +21,9 @@ body {
   grid-gap: 10px;  /* Declara el espacio entre columnas */
 
   grid-template-areas: 
-  "A A A A"
-  "A A A A"
-  "B C D E";
+  "A C C C"
+  "A E E B"
+  "A D D B";
 }
 
 .grid-item1 {
